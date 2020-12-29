@@ -58,8 +58,6 @@
 # include <lib/perf/perf_counter.h>
 #endif
 
-#include <output_limit/output_limit.h>
-
 #include <stm32_uart.h>
 
 #define DEBUG
